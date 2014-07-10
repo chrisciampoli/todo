@@ -1,0 +1,3 @@
+php_value  display_errors  On
+DirectoryIndex index.html
+#Redirect 301 / /admin/#Aup
